@@ -1,0 +1,28 @@
+.video-evento{
+    width: 100%;
+    height: 650px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjetas{
+    width: 100%;
+    padding: 2rem;
+    background-color: #9F411A;
+    display: flex;
+    flex-flow: row wrap;
+  justify-content: space-around;
+}
+.carta{
+    object-fit: cover;
+    padding-top: 20px;
+}
+.card-body{
+    background-color: #E8E6E6;
+}
+ul, li{
+    background-color: #E8E6E6;
+}
